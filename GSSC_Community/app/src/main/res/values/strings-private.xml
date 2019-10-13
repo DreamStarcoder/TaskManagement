@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GSSC Community</string>
+
+    <string name="developer_name" translatable="false">Wahid production</string>
+    <string name="email" translatable="false">wahid03129009520@gmail.com</string>
+
+</resources>
